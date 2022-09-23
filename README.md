@@ -1,2 +1,1 @@
-# minha_nota_2t
-trabalho
+# primeirod_2t
